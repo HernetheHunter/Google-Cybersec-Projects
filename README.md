@@ -5,7 +5,8 @@ Welcome to my cybersecurity portfolio! I'm currently enrolled in the **Google Cy
 - Name: Patrick P
 - Focus: Cybersecurity fundamentals, penetration testing, and secure coding
 - Contact: patrick_cybersec@mailbox.org
-- Experience-To-Date: Avionics, Telecommmunications, Energy Systems (with focus on hydrogen). Big into data analysis - love revealing its secrets.
+- Experience-To-Date: Avionics, Telecommmunications, Energy Systems (with focus on hydrogen). Big into data analysis - love revealing its secrets
+- Highly motivated and highly curious. With my data analysis skills I am actively working increase my knowledge to identify and analyze potential risks, threats, and vulnerabilities to security, and ensure the confidentiality, integrity, and availability of assets, to help safeguard organizations and people alike. 
 
 ## Repository Contents
 - **Scripts**: Practical tools written in Python/Bash
