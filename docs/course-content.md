@@ -1,6 +1,6 @@
 # Content of the Google Cybersecurity Certificate course:
 
-1. **Foundations of Cybersecurity** *(current course)*
+1. **Foundations of Cybersecurity** 
 2. **Play It Safe: Manage Security Risks**
 3. **Connect and Protect: Networks and Network Security**
 4. **Tools of the Trade: Linux and SQL**
