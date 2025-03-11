@@ -38,7 +38,7 @@ Type an X in the "yes" or "no" column to answer the question: *Does Botium Toys 
 
 | **Yes** | **No** | **Best practice** | **Explanation** |
 |---------|--------|-------------------|-----------------|
-|         | X      | E.U. customers' data is kept private/secured. | *The company does not currently use encryption to better ensure the confidentiality of customers' financial information.* |
+|         | X      | E.U. customers' data is kept private/secured. | *The company does not currently use encryption to better ensure the confidentiality of customers' financial information. * |
 | X       |        | There is a plan in place to notify E.U. customers within 72 hours if their data is compromised/there is a breach. | *There is a plan to notify E.U. customers within 72 hours of a data breach.* |
 |         | X      | Ensure data is properly classified and inventoried. | *Current assets have been inventoried/listed, but not classified.* |
 | X       |        | Enforce privacy policies, procedures, and processes to properly document and maintain data. | *Privacy policies, procedures, and processes have been developed and enforced among IT team members and other employees, as needed.* |
